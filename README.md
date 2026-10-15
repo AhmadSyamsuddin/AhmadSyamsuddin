@@ -20,11 +20,11 @@ JavaScript • TypeScript • Node.js • Express • React • Next.js • Grap
 - Database Backup Management Tool
 
 ### 📫 Reach Me
-- LinkedIn: linkedin.com/in/ahmad-syamsuddin
+- LinkedIn: www.linkedin.com/in/ahmad-syamsuddin
 - Email: asyam5214@gmail.com
 
 ## 📊 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSyamsuddin&layout=compact&theme=tokyonight)
 
 > *Building software that is simple, scalable, and useful.*
