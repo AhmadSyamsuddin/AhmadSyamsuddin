@@ -1,6 +1,6 @@
-# Hi, I'm Ahmad 👋
+# Hi, I'm Ahmad Syamsuddin
 
-Junior Fullstack Developer from Indonesia 🇮🇩
+Fullstack Developer from Indonesia 🇮🇩
 
 I enjoy building reliable web applications and backend systems that solve real business problems. I have experience developing REST APIs, GraphQL services, and fullstack applications using JavaScript and TypeScript.
 
