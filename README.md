@@ -29,8 +29,4 @@ JavaScript • TypeScript • Node.js • Express • React • Next.js • Grap
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSyamsuddin&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AhmadSyamsuddin&theme=tokyonight)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmadSyamsuddin&theme=tokyo-night)
-
 > *Building software that is simple, scalable, and useful.*
