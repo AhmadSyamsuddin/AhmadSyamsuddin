@@ -25,7 +25,7 @@ JavaScript • TypeScript • Node.js • Express • React • Next.js • Grap
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadSyamsuddin&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSyamsuddin&layout=compact&theme=tokyonight)
 
