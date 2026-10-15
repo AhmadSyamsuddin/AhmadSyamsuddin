@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ahmad 👋
 
-<!--
-**AhmadSyamsuddin/AhmadSyamsuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Fullstack Developer from Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+I enjoy building reliable web applications and backend systems that solve real business problems. I have experience developing REST APIs, GraphQL services, and fullstack applications using JavaScript and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech
+JavaScript • TypeScript • Node.js • Express • React • Next.js • GraphQL • MongoDB • PostgreSQL • Docker • Git
+
+### 🌱 Currently Exploring
+- System Design
+- Go
+- AI Engineering & LLM Applications
+- Cloud Infrastructure
+
+### 🚀 Featured Work
+- EHS Basic Safety Management System
+- AI Career Recommendation Platform
+- AI Workout Generator
+- Database Backup Management Tool
+
+### 📫 Reach Me
+- LinkedIn: linkedin.com/in/ahmad-syamsuddin
+- Email: asyam5214@gmail.com
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadSyamsuddin&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSyamsuddin&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AhmadSyamsuddin&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmadSyamsuddin&theme=tokyo-night)
+
+> *Building software that is simple, scalable, and useful.*
